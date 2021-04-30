@@ -11,14 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-# **D**awid **T**araruj 
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawiteu&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawiteu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+-->
+
+# **D**awid **T**araruj 
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dawiteu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

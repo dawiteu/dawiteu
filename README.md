@@ -28,7 +28,7 @@ je suis na na na
 
 :zap: Technologie :  
 
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dawiteu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

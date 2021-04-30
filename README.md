@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">**D**awid **T**araruj</h1>
+<h1 align="center"> **D**awid **T**araruj </h1>
 
 je suis na na na 
 

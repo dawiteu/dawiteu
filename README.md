@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Dawid Tararuj </h1>
 
-je suis na na na 
-
-...
+Full Stack (junior) web dev.
 
 
 :zap: Technologie :  

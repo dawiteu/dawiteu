@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 # **D**awid **T**araruj
 
+je suis na na na 
+
+...
+
+
+:zap: Technologie :  
+
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dawiteu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
